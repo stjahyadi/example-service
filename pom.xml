@@ -143,11 +143,13 @@
 			<version>2.6</version>
 		</dependency>
 		
+		<!--
 		<dependency>
 			<groupId>id.co.asyst.backend.common</groupId>
 			<artifactId>common-util</artifactId>
 			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
+		-->
 	</dependencies>
 
 	<build>
