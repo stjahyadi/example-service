@@ -5,7 +5,7 @@
 	<artifactId>example-service</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>Example Backend Service</name>
+	<name>Example Backend Service1</name>
 	
 	<properties>
 		<version.server.bom>7.1.0.GA</version.server.bom>
